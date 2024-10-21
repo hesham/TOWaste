@@ -1,4 +1,4 @@
-# TOWaste Schedule
+# Toronto Waste Schedule
 
 * JSON Endpoints
 
